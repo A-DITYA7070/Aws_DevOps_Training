@@ -56,3 +56,6 @@ xi) to change the modification time 'touch -m file_name'
 
 
 
+==> If we put .file (dot) in filename while creating it will be hidden .
+==> ls -l is used to long listing.
+==> ls -a shows hidden files as well.
